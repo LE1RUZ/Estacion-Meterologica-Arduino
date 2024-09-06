@@ -1,7 +1,5 @@
 //RECEPTOR DE ESTACION METEREOLOGICA 
 
-//https://thingspeak.com/channels/2647446/api_keys
-
 #include <SoftwareSerial.h>
 #include <ThingSpeak.h>
 #include <WiFi.h>
