@@ -12,8 +12,8 @@ String lora_RX_address = "1";   // Lora RX address (para respuesta)
 const char* ssid = "ssid";                        //SSID de router.
 const char* password = "password";                //Contraseña de router.
 
-unsigned long channelID = 2647446;                //ID del canal.
-const char* WriteAPIKey = "68S4J88C2RSXU1TJ";     //Write API Key del canal.
+unsigned long channelID = 9999999;                //ID del canal.
+const char* WriteAPIKey = "API Key";     //Write API Key del canal.
 
 SoftwareSerial mySerial(18, 19); // RX, TX 
 
